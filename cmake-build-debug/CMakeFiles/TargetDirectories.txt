@@ -1,0 +1,3 @@
+C:/Users/Kamahl Mannings/Car Sales/cmake-build-debug/CMakeFiles/Car_Sales_.dir
+C:/Users/Kamahl Mannings/Car Sales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kamahl Mannings/Car Sales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
